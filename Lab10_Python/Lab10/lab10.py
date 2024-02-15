@@ -6,7 +6,7 @@ dropdownlist_options_list=[]
 database=mysql.connector.connect(
     host='localhost',
     user='root',
-    passwd='cancaliskan6133',
+    ##passwd
     database='python_project'
 )
 
